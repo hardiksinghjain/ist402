@@ -110,7 +110,11 @@ https://www.webcomponents.org/introduction
 
 
 ## PHP
-
+PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.
+- PHP is a recursive acronym for "PHP: Hypertext Preprocessor".
+- PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-  commerce sites.
+- It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.
+https://www.tutorialspoint.com/php/php_introduction.htm
 
 ## Express.js
 
